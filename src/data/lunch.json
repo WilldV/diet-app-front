@@ -1,0 +1,59 @@
+[
+  {
+    "id": "option1",
+    "name": "Opción 1",
+    "components": [
+      {
+        "name": "Verduras",
+        "quantity": null,
+        "options": null
+      },
+      {
+        "name": "Hidratos de carbono 3",
+        "quantity": null,
+        "options": "carbohydrates3"
+      },
+      {
+        "name": "Proteínas 7",
+        "quantity": null,
+        "options": "proteins7"
+      },
+      {
+        "name": "Fruta",
+        "quantity": "1 ración",
+        "options": "fruits1"
+      }
+    ]
+  },
+  {
+    "id": "option2",
+    "name": "Opción 2",
+    "components": [
+      {
+        "name": "Verduras",
+        "quantity": null,
+        "options": null
+      },
+      {
+        "name": "Legumbres 2",
+        "quantity": null,
+        "options": "legumes2"
+      },
+      {
+        "name": "Proteínas 4",
+        "quantity": null,
+        "options": "proteins4"
+      },
+      {
+        "name": "Pan integral",
+        "quantity": "35g",
+        "options": null
+      },
+      {
+        "name": "Fruta",
+        "quantity": "1 ración",
+        "options": "fruits1"
+      }
+    ]
+  }
+]

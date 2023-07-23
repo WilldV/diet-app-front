@@ -1,0 +1,23 @@
+[
+  {
+    "id": "option1",
+    "name": "Opción 1",
+    "components": [
+      {
+        "name": "Verduras",
+        "quantity": null,
+        "options": null
+      },
+      {
+        "name": "Grasas 1",
+        "quantity": null,
+        "options": "fats1"
+      },
+      {
+        "name": "Proteínas 7",
+        "quantity": null,
+        "options": "proteins7"
+      }
+    ]
+  }
+]

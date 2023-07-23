@@ -1,0 +1,4 @@
+@import "./tailwind.css";
+
+@import "./components/app/App.css";
+@import "./components/collapse/collapse.css";

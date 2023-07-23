@@ -1,0 +1,152 @@
+[
+  {
+    "id": "option1",
+    "name": "Opción 1",
+    "components": [
+      {
+        "name": "Fruta",
+        "quantity": "1 ración",
+        "options": "fruits1"
+      },
+      {
+        "name": "Café/Infusión",
+        "quantity": "1 ración",
+        "options": null
+      },
+      {
+        "name": "Pan integral",
+        "quantity": "70g",
+        "options": null
+      },
+      {
+        "name": "Proteínas 1",
+        "quantity": null,
+        "options": "proteins1"
+      }
+    ]
+  },
+  {
+    "id": "option2",
+    "name": "Opción 2",
+    "components": [
+      {
+        "name": "Fruta",
+        "quantity": "1 ración",
+        "options": "fruits1"
+      },
+      {
+        "name": "Café/Infusión",
+        "quantity": "1 ración",
+        "options": null
+      },
+      {
+        "name": "Crema de arroz",
+        "quantity": "40g",
+        "options": null
+      },
+      {
+        "name": "Proteína isolada",
+        "quantity": "15g",
+        "options": null
+      },
+      {
+        "name": "Bebida de almendras sin azúcar",
+        "quantity": "70g",
+        "options": null
+      },
+      {
+        "name": "Grasas 2",
+        "quantity": null,
+        "options": "fats2"
+      }
+    ]
+  },
+  {
+    "id": "option3",
+    "name": "Opción 3",
+    "components": [
+      {
+        "name": "Fruta",
+        "quantity": "1 ración",
+        "options": "fruits1"
+      },
+      {
+        "name": "Queso fresco desnatado o yogur proteico mercadona",
+        "quantity": "125g/1 unidad",
+        "options": null
+      },
+      {
+        "name": "Harina de avena",
+        "quantity": "50g",
+        "options": null
+      },
+      {
+        "name": "Grasas 1",
+        "quantity": null,
+        "options": "fats1"
+      }
+    ]
+  },
+  {
+    "id": "option4",
+    "name": "Opción 4",
+    "components": [
+      {
+        "name": "Fruta",
+        "quantity": "1 ración",
+        "options": "fruits1"
+      },
+      {
+        "name": "Café/Infusión",
+        "quantity": "1 ración",
+        "options": null
+      },
+      {
+        "name": "Harina de avena",
+        "quantity": "60g",
+        "options": null
+      },
+      {
+        "name": "Clara de huevo",
+        "quantity": "50g",
+        "options": null
+      }
+    ]
+  },
+  {
+    "id": "option5",
+    "name": "Opción 5",
+    "components": [
+      {
+        "name": "Fruta",
+        "quantity": "1 ración",
+        "options": "fruits1"
+      },
+      {
+        "name": "Café/Infusión",
+        "quantity": "1 ración",
+        "options": null
+      },
+      {
+        "name": "Avena cruda",
+        "quantity": "50g",
+        "options": null
+      },
+      {
+        "name": "Bebida de almendras sin azúcar",
+        "quantity": "70g",
+        "options": null
+      },
+      {
+        "name": "Queso fresco desnatado o yogur proteico mercadona",
+        "quantity": "125g/1 unidad",
+        "options": null
+      },
+      {
+        "name": "Grasas 1",
+        "quantity": null,
+        "options": "fats1"
+      }
+    ]
+  }
+]

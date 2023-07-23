@@ -1,0 +1,323 @@
+{
+  "fruits1": [
+    {
+      "name": "fresas",
+      "quantity": "250g"
+    },
+    {
+      "name": "cerezas",
+      "quantity": "250g"
+    },
+    {
+      "name": "uva",
+      "quantity": "125g"
+    },
+    {
+      "name": "piña",
+      "quantity": "150g"
+    },
+    {
+      "name": "melón",
+      "quantity": "250g"
+    },
+    {
+      "name": "sandía",
+      "quantity": "250g"
+    },
+    {
+      "name": "plátano",
+      "quantity": "120g"
+    },
+    {
+      "name": "manzana",
+      "quantity": "170g"
+    },
+    {
+      "name": "caqui",
+      "quantity": "180g"
+    },
+    {
+      "name": "naranja",
+      "quantity": "150g"
+    },
+    {
+      "name": "mandarina",
+      "quantity": "200g"
+    },
+    {
+      "name": "kiwi",
+      "quantity": "200g"
+    },
+    {
+      "name": "frambuesa",
+      "quantity": "150g"
+    },
+    {
+      "name": "arándanos",
+      "quantity": "150g"
+    },
+    {
+      "name": "albaricoque",
+      "quantity": "150g"
+    },
+    {
+      "name": "mango",
+      "quantity": "180g"
+    },
+    {
+      "name": "nectarina",
+      "quantity": "150g"
+    },
+    {
+      "name": "pera",
+      "quantity": "180g"
+    },
+    {
+      "name": "dátil",
+      "quantity": "60g"
+    }
+  ],
+  "fats1": [
+    {
+      "name": "nueces",
+      "quantity": "10g"
+    },
+    {
+      "name": "avellanas",
+      "quantity": "10g"
+    },
+    {
+      "name": "cacahuete",
+      "quantity": "10g"
+    },
+    {
+      "name": "crema de cacahuete",
+      "quantity": "10g"
+    },
+    {
+      "name": "chocolate negro",
+      "quantity": "10g"
+    },
+    {
+      "name": "anacardos",
+      "quantity": "10g"
+    },
+    {
+      "name": "semillas sésamo",
+      "quantity": "10g"
+    },
+    {
+      "name": "semillas chía",
+      "quantity": "20g"
+    },
+    {
+      "name": "coco fresco o rallado",
+      "quantity": "20g"
+    },
+    {
+      "name": "aceite",
+      "quantity": "6g"
+    },
+    {
+      "name": "aguacate",
+      "quantity": "50g"
+    },
+    {
+      "name": "aceitunas",
+      "quantity": "50g"
+    }
+  ],
+  "fats2": [
+    {
+      "name": "nueces",
+      "quantity": "15g"
+    },
+    {
+      "name": "avellanas",
+      "quantity": "15g"
+    },
+    {
+      "name": "cacahuete",
+      "quantity": "15g"
+    },
+    {
+      "name": "crema de cacahuete",
+      "quantity": "15g"
+    },
+    {
+      "name": "pistachos",
+      "quantity": "15g"
+    },
+    {
+      "name": "anacardos",
+      "quantity": "15g"
+    },
+    {
+      "name": "semillas sésamo",
+      "quantity": "15g"
+    },
+    {
+      "name": "semillas chía",
+      "quantity": "30g"
+    },
+    {
+      "name": "coco fresco o rallado",
+      "quantity": "30g"
+    },
+    {
+      "name": "chocolate negro",
+      "quantity": "15g"
+    },
+    {
+      "name": "aceite",
+      "quantity": "10g"
+    },
+    {
+      "name": "aguacate",
+      "quantity": "75g"
+    },
+    {
+      "name": "aceitunas",
+      "quantity": "75g"
+    }
+  ],
+  "proteins1": [
+    { "name": "Pechuga de pavo + 10ml aceite", "quantity": "75g" },
+    { "name": "Jamón cocido extra + 5ml aceite", "quantity": "75g" },
+    { "name": "Pavo o jamón + 1 huevo", "quantity": "35g" },
+    { "name": "Queso curado + jamón o pavo (35g)", "quantity": "30g" },
+    { "name": "Queso fresco + jamón o pavo (35g)", "quantity": "65g" },
+    { "name": "Jamón serrano + 5ml aceite", "quantity": "50g" },
+    { "name": "Jamón serrano + queso curado (15g)", "quantity": "40g" },
+    { "name": "Huevos (2u)", "quantity": "120g" },
+    { "name": "Atún en aceite (1 lata)", "quantity": "50g" },
+    { "name": "Atún al natural (1 lata) + huevo (1u)", "quantity": "50g" },
+    {
+      "name": "Atún al natural (1 lata) + queso curado (20g)",
+      "quantity": "50g"
+    },
+    { "name": "Salmón en lata (1u) + queso curado (15g)", "quantity": "50g" },
+    { "name": "Lomo embuchado + 10ml aceite", "quantity": "40g" },
+    { "name": "Lomo embuchado + huevo (1u)", "quantity": "30g" }
+  ],
+  "proteins4": [
+    { "name": "Conejo", "quantity": "150g" },
+    { "name": "Carne picada de pollo", "quantity": "150g" },
+    { "name": "Pavo + 10ml aceite", "quantity": "120g" },
+    { "name": "Polo + 5ml aceite", "quantity": "130g" },
+    { "name": "Pescado blanco + 10ml aceite", "quantity": "150g" },
+    {
+      "name": "Atún al natural (2 latas) + clara de huevo (40g)",
+      "quantity": "100g"
+    },
+    { "name": "Pescado azul", "quantity": "150g" },
+    {
+      "name": "Salmón en lata (2u) + claras de huevo (80g)",
+      "quantity": "100g"
+    },
+    { "name": "Mariscos + 10ml aceite", "quantity": "150g" },
+    {
+      "name": "Huevos (2u) + Carne o pescado blanco (70g)",
+      "quantity": "120g"
+    },
+    {
+      "name": "Tofu + Carne o pescado blanco (70g)",
+      "quantity": "150g"
+    },
+    {
+      "name": "Ternera + 5ml de aceite",
+      "quantity": "150g"
+    },
+    {
+      "name": "Lomo de cerdo + 5ml de aceite",
+      "quantity": "150g"
+    },
+    {
+      "name": "Queso curado + carne o pescado blanco (90g)",
+      "quantity": "30g"
+    },
+    {
+      "name": "Queso fresco + carne o pescado blanco (90g)",
+      "quantity": "65g"
+    },
+    {
+      "name": "Carne picada de ternera",
+      "quantity": "120g"
+    },
+    {
+      "name": "Heura + 5ml de aceite",
+      "quantity": "130g"
+    }
+  ],
+  "proteins7": [
+    { "name": "Carne picada de pollo", "quantity": "200g" },
+    { "name": "Pavo + 10ml aceite", "quantity": "180g" },
+    { "name": "Polo + 5ml aceite", "quantity": "200g" },
+    { "name": "Pescado blanco + 10ml aceite", "quantity": "225g" },
+    {
+      "name": "Atún al natural (3 latas) + clara de huevo (80g)",
+      "quantity": "150g"
+    },
+    { "name": "Pescado azul", "quantity": "200g" },
+    { "name": "Mariscos + 10ml aceite", "quantity": "225g" },
+    {
+      "name": "Huevos (2u) + Carne o pescado blanco (130g)",
+      "quantity": "120g"
+    },
+    {
+      "name": "Tofu + Carne o pescado blanco (130g)",
+      "quantity": "150g"
+    },
+    {
+      "name": "Ternera",
+      "quantity": "200g"
+    },
+    {
+      "name": "Lomo de cerdo",
+      "quantity": "200g"
+    },
+    {
+      "name": "Queso curado + carne o pescado blanco (160g)",
+      "quantity": "30g"
+    },
+    {
+      "name": "Queso fresco + carne o pescado blanco (160g)",
+      "quantity": "65g"
+    },
+    {
+      "name": "Carne picada de ternera",
+      "quantity": "150g"
+    },
+    {
+      "name": "Heura + 5ml de aceite",
+      "quantity": "200g"
+    }
+  ],
+  "carbohydrates3": [
+    { "name": "arroz", "quantity": "60g" },
+    { "name": "noodels de arroz", "quantity": "60g" },
+    { "name": "pasta", "quantity": "60g" },
+    { "name": "patata", "quantity": "250g" },
+    { "name": "boniato", "quantity": "250g" },
+    { "name": "ñoquis", "quantity": "125g" },
+    { "name": "yuca", "quantity": "125g" },
+    { "name": "cous cous", "quantity": "60g" },
+    { "name": "quinoa", "quantity": "60g" },
+    { "name": "pan", "quantity": "100g" },
+    {
+      "name": "tortita de trigo mexicana (1u) + patata/boniato (100g)",
+      "quantity": "30g"
+    }
+  ],
+  "legumes2": [
+    {
+      "name": "Legumbres cocidas (lentejas, garbanzos, alubias)",
+      "quantity": "300g"
+    },
+    { "name": "Pasta de lentejas", "quantity": "80g" },
+    {
+      "name": "Legumbres en seco (lentejas, garbanzos, alubias)",
+      "quantity": "70g"
+    }
+  ]
+}
